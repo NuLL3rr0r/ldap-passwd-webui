@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/NuLL3rr0r/ldap-passwd-webui/app"
 	"github.com/dchest/captcha"
-	"github.com/thammuio/ldap-passwd-webui/app"
 )
 
 func main() {
